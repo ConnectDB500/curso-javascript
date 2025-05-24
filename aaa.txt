@@ -1,0 +1,10 @@
+1. indexing
+2. vertical scaling
+3. caching
+4. sharding
+5. replication
+6. query optimization
+7. connection pooling
+8. vertical partitioning
+8. denomarlization
+10. materialized views
