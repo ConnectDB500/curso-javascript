@@ -1,0 +1,26 @@
+body {
+  background-color: snow;
+  text-align: center;
+}
+
+.header {
+  background-color: rgb(189, 170, 90);
+  color: snow;
+}
+
+.content {
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.numero {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.footer {
+  background-color: rgb(189, 170, 90);
+  color: snow;
+}
