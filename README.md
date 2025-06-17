@@ -7,7 +7,7 @@ O curso de Node JS ensina a utilizar os bancos de dados MySQL e MongoDB, a bibli
 
 O curso de Typescript ensina sobre a tipagem avançada da linguagem, inferência de tipos, interfaces, tipos genéricos, as const, keyof, sobrecarga de funções e muito mais
 
-O curso de React
+O curso de React onde é ensinado components, props, state, renderização e outros assuntos.
 ***
 ### Link das Playlists:
 >Brasilian Dev
