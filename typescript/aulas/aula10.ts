@@ -2,19 +2,22 @@
 
 export class Player {
   private static players: Player[] = [];
-  name: string;
+  public name: string;
   private health: number;
   constructor(name: string){
     this.name = name;
     this.health = 20;
     Player.players.push(this);
   }
+
   public getName(){
     return this.name;
   }
+
   public getHealth(){
     return this.health;
   }
+  
   public damage(amount: number, damager?: Player){
     const upDatedHealth = this.health - amount;
 
@@ -43,3 +46,4 @@ const hacker = new Player("Red Hat");
 const geek = new Player("Developer");
 
 hacker.damage(10, geek);
+
