@@ -44,7 +44,7 @@ function move(animal: Bird | Fish){
 //
 function main(value: string[] | Date){
   if ("push" in value){
-    value.push("There is push() in value")
+    value.push("This is Array string")
   } else {
     value.getDate()
   }

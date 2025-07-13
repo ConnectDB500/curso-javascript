@@ -1,0 +1,15 @@
+{
+  "colors": {
+    "sucess": "#22c55e",
+    "danger": "#ed4245",
+    "primary": "#3b82f6",
+    "secundary": "#4f545c",
+    "default": "#2f3136",
+    "info": "#fee75c",
+    "warning": "#fbbd23",
+    "magic": "#c026d3",
+    "green": "#57f287",
+    "fuchsia": "#eb459e",
+    "azoxo": "#5865f2"
+  }
+}
