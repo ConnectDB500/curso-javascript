@@ -9,7 +9,12 @@
     "moduleResolution": "NodeNext",
     "resolveJsonModule": true,
     "rootDir": "src",
-    "outDir": "build"
+    "outDir": "build",
+
+    "baseUrl": "./src",
+    "paths": {
+      "#mathfuncs/*": ["./functions/common/utils/math/*"]
+    }
   },
   "include": ["src"],
   "exclude": ["node_modules"]

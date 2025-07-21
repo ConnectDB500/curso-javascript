@@ -11,5 +11,8 @@
     "@types/node": "^24.0.3",
     "tsx": "^4.20.3",
     "typescript": "^5.8.3"
+  },
+  "imports": {
+    "#mathfuncs/*": ["/build/function/common/utils/math/*"]
   }
 }
