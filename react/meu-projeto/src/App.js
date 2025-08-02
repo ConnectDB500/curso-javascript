@@ -1,13 +1,14 @@
 import './App.css';
-import HelloWorld from './components/HelloWorld';
-import Frase from "./components/Frase"
+import Evento from './components/Evento';
+import Form from './components/Form';
 
 function App() {
   return (
     <div className="App">
-      <h1>Ola React</h1>
-      <HelloWorld />
-      <Frase />
+      <h1>Testando EVENTO</h1>
+      <Evento numero="1" />
+      <Evento numero="2" />
+      <Form />
     </div>
   )
 }
